@@ -1,0 +1,2 @@
+# bcrypt-
+simple hashing code
